@@ -35,4 +35,4 @@ This repository contains the source code for my **Personal Portfolio** website. 
 ### How to Use
 1. Clone this repository:
    ```bash
-   
+   https://github.com/Script-Shifter/portofolio.git
