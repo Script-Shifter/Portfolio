@@ -17,15 +17,6 @@ This repository contains the source code for my **Personal Portfolio** website. 
 - **Google Fonts:** Enhancing typography with the Poppins font family.
 - **Ionicons:** Icons for visual appeal and usability.
 
-## Projects Included
-
-- **Number Plate Detection System**
-- **Hotel Billing System**
-- **College Website**
-- **Live E-commerce Website**
-- **Personal Portfolio**
-- **Paradise Hotel Website**
-
 ## Getting Started
 
 ### Prerequisites
