@@ -15,7 +15,6 @@ This repository contains the source code for my **Personal Portfolio** website. 
 - **CSS3:** For styling and layout.
 - **JavaScript:** For interactivity and functionality.
 - **Google Fonts:** Enhancing typography with the Poppins font family.
-- **Ionicons:** Icons for visual appeal and usability.
 
 ## Getting Started
 
